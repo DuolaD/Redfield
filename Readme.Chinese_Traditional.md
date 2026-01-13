@@ -1,7 +1,7 @@
 <div align="center">
   <h1 class="header">Redfield</h1>
   <h3>
-    一場偉大的旅程，向着並不美好的明天。
+    壯遊之旅，走向黯淡的明天。
   </h3>
 </div>
 
